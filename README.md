@@ -1,2 +1,3 @@
-# oemof-electrolyzer
-Time-resolved operating modes of electrolyzer
+oemof.solph Elctrolyzer Operating Modes Repository
+
+Optimizing time-resolved operating modes of electrolyzer using oemof.solph
