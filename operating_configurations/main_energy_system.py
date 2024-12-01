@@ -7,6 +7,9 @@ Participates at control reserve market, if capacity is available
 Installation requirements:
 This code uses the developer version of oemof.solph https://github.com/oemof/oemof-solph/tree/dev
 
+- Solver:
+Gurobi solver is used for optimzation (glpk or cbc should work to, but havn't been tested)
+
 Three excel files ar needed:
 Save the files in an extra folder "Daten" to the main_energy_system.py file
 '''
